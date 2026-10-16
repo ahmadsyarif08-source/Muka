@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi PramukaHub — Portal Kegiatan & Panduan Kepramukaan Indonesia",
+  "description": "Portal lengkap kegiatan, administrasi pangkalan, kuis cerdas cermat AI bersuara benar/salah, dan panduan kepramukaan Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
